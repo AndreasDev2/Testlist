@@ -95,3 +95,5 @@ pki-goog.l.google.com
 www.facebook.com	
 cse.google.com	
 accounts.google.com
+www.bett1.de
+bett1.de
